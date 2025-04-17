@@ -1,8 +1,8 @@
-Virtual Fitting Room
-Overview
+##Virtual Fitting Room
+##Overview
 The Virtual Fitting Room is an AI and Augmented Reality (AR) based application that allows users to try on clothes virtually using their webcam. This eliminates the need for physical trials, making online shopping more interactive and efficient. Users can select multiple clothing items for both men and women and see how they would look in real time.
 
-Features
+##Features
 Real-time virtual try-on using webcam
 
 Clothing selection interface (for men and women)
@@ -15,7 +15,7 @@ Pose estimation for realistic fitting
 
 Interactive UI with "Try On" functionality
 
-Technologies Used
+##Technologies Used
 Frontend: React.js (Web UI)
 
 Backend: Flask (Python)
@@ -34,7 +34,7 @@ Augmented Reality: OpenCV with webcam stream
 
 Languages: Python, JavaScript, HTML, CSS
 
-How to Use
+##How to Use
 Launch the web interface.
 
 Log in or sign up to access the dashboard.
@@ -47,7 +47,7 @@ Stand in front of the webcam to see the selected clothes applied to your body.
 
 Try out different styles and outfits in real time.
 
-Installation
+##Installation
 Backend (Flask)
 Clone the repository:
 
@@ -56,7 +56,7 @@ Copy
 Edit
 git clone https://github.com/yourusername/virtual-fitting-room.git
 cd virtual-fitting-room/backend
-Create a virtual environment and install dependencies:
+##Create a virtual environment and install dependencies:
 
 bash
 Copy
@@ -64,26 +64,26 @@ Edit
 python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
 pip install -r requirements.txt
-Run the Flask server:
+##Run the Flask server:
 
 bash
 Copy
 Edit
 python app.py
 Frontend (React)
-Navigate to the frontend directory:
+##Navigate to the frontend directory:
 
 bash
 Copy
 Edit
 cd ../frontend
-Install dependencies:
+##Install dependencies:
 
 bash
 Copy
 Edit
 npm install
-Start the development server:
+##Start the development server:
 
 bash
 Copy
