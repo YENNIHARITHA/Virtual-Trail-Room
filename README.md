@@ -80,7 +80,7 @@ npm start
 Database
 Ensure MongoDB is installed and running. Use the user_db database and users collection for storing user data.
 
-Future Enhancements
+## Future Enhancements
 Support for multiple body types and sizes
 
 More advanced garment fitting and cloth simulation
@@ -92,3 +92,8 @@ Fashion recommendation system using AI
 Integration with e-commerce platforms
 
 Save and share outfit previews
+
+## OutputScreens
+
+
+
