@@ -95,6 +95,14 @@ Save and share outfit previews
 
 ## OutputScreens
 
-![Alt text]()
+## Index Page
+![Alt text](https://github.com/YENNIHARITHA/Virtual-Trail-Room/blob/8f61a189adc312c92acf43c5ad0a99954377a428/OutputScreens/index.png)
+
+## View Selected Clothes
+![Alt text](https://github.com/YENNIHARITHA/Virtual-Trail-Room/blob/8f61a189adc312c92acf43c5ad0a99954377a428/OutputScreens/view-selected-clothes.png
+)
+
+## Multiple User Tryon
+![Alt text](https://github.com/YENNIHARITHA/Virtual-Trail-Room/blob/8f61a189adc312c92acf43c5ad0a99954377a428/OutputScreens/multiple-users-tryon.jpg)
 
 
