@@ -95,6 +95,6 @@ Save and share outfit previews
 
 ## OutputScreens
 
-![Alt text](path/to/OutputScreens/add products to tryon.png)
+![Alt text](https://github.com/YENNIHARITHA/Virtual-Trail-Room/blob/a5e77db86e7b88aae1668d7f778ddb4a7b9ddf01/OutputScreens/add-products-to-tryon.png)
 
 
