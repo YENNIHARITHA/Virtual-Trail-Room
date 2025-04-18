@@ -13,6 +13,8 @@ AR-based clothing overlay
 
 Pose estimation for realistic fitting
 
+Support for multiple body types and sizes
+
 Interactive UI with "Try On" functionality
 
 ## Technologies Used
@@ -81,7 +83,6 @@ Database
 Ensure MongoDB is installed and running. Use the user_db database and users collection for storing user data.
 
 ## Future Enhancements
-Support for multiple body types and sizes
 
 More advanced garment fitting and cloth simulation
 
